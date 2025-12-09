@@ -1,12 +1,6 @@
 # smart-greenhouse
 
 ## Introduction
-smart-greenhouse is 
-
-
-
-# Smart Greenhouse — A Solar-Powered Autonomous Growing System
-
 Smart Greenhouse is an IoT-driven, solar-powered greenhouse automation project designed to help plants **survive harsh climates**, **maximize yield**, and **reduce human intervention**.  
 The goal is to create an environmentally sustainable micro-ecosystem that intelligently controls moisture, temperature, atmospheric conditions, and nutrient cycles.
 
